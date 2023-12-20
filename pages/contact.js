@@ -23,7 +23,7 @@ const Contact = () => {
               Toll Free: cakk
             </p>
             <p className="text-xl font-light text-gray-500">
-              Email: info@avm.com
+              Email: info@SatkarHolidays.com
             </p>
           </div>
           <div className="col-span-1 bg-gray-100 p-24 flex flex-col space-y-8">
@@ -31,7 +31,7 @@ const Contact = () => {
             <p className="text-xl font-light text-gray-500">
               Amarjit Singh
               <br /> Phone: call, Fax: call <br />
-              Email: user@avm.com
+              Email: user@SatkarHolidays.com
             </p>
           </div>
         </div>

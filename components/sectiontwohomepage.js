@@ -12,7 +12,7 @@ const ContentTwo = () => {
           <div
             className="col-span-2 row-span-1 bg-no-repeat bg-cover bg-center  h-64"
             style={{
-              backgroundImage: `url(/image_01-4.jpg)`,
+              backgroundImage: `url(/4.jpeg)`,
             }}
           >
             <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
@@ -24,7 +24,7 @@ const ContentTwo = () => {
           <div
             className="col-span-2 row-span-1 bg-no-repeat bg-cover bg-center  h-64"
             style={{
-              backgroundImage: `url(/image_02-4.jpg)`,
+              backgroundImage: `url(/8.jpeg)`,
             }}
           >
             <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
@@ -36,7 +36,7 @@ const ContentTwo = () => {
           <div
             className="col-span-2 row-span-1 bg-no-repeat bg-cover bg-center  h-64"
             style={{
-              backgroundImage: `url(/image_02-4.jpg)`,
+              backgroundImage: `url(/9.jpeg)`,
             }}
           >
             <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
@@ -48,7 +48,7 @@ const ContentTwo = () => {
           <div
             className="col-span-1 row-span-1 bg-no-repeat bg-cover bg-center  h-64"
             style={{
-              backgroundImage: `url(/image_04-4.jpg)`,
+              backgroundImage: `url(/2.jpeg)`,
             }}
           >
             <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">
@@ -60,7 +60,7 @@ const ContentTwo = () => {
           <div
             className="col-span-1 row-span-1 bg-no-repeat bg-cover bg-center  h-64"
             style={{
-              backgroundImage: `url(/image_05-2.jpg)`,
+              backgroundImage: `url(/10.jpeg)`,
             }}
           >
             <div className="bg-black  hover:bg-opacity-5 bg-opacity-30 w-full h-full  flex items-end justify-start">

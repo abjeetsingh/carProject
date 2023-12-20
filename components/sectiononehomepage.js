@@ -2,9 +2,10 @@ import { FaHashtag } from "react-icons/fa";
 import Image from "next/image";
 import Image1 from "../public/image_01-6.jpg";
 import Image2 from "../public/image_01-5.jpg";
-import Image3 from "../public/image_10-1.jpg";
-import Image4 from "../public/image_10-2.jpg";
-import Image5 from "../public/image_03-2.jpg";
+import Image3 from "../public/3.jpeg";
+import Image4 from "../public/4.jpeg";
+import Image5 from "../public/5.jpeg";
+import Image6 from "../public/2.jpeg";
 const Contents = () => {
   return (
     <div className="container mx-auto py-24  space-y-20 w-full">
@@ -45,10 +46,14 @@ const Contents = () => {
         </div>
         <div className="grid grid-cols-2 grid-rows-2 gap-2">
           <div className="col-span-1 row-span-2">
-            <Image src={Image3} alt="Picture of the author" />
+            <Image
+              className="bg-cover"
+              src={Image4}
+              alt="Picture of the author"
+            />
           </div>
           <div className="col-span-1 row-span-1">
-            <Image src={Image4} alt="Picture of the author" />
+            <Image src={Image3} alt="Picture of the author" />
           </div>
           <div className="col-span-1 row-span-1">
             <Image src={Image5} alt="Picture of the author" />

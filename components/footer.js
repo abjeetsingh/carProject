@@ -40,9 +40,7 @@ const footer = () => {
               <FaRegClock className="w-12 h-12 text-amber-600  p-1" />
               <div className="space-y-2">
                 <p className="text-gray-500">WORKING HOURS</p>
-                <p className="text-gray-600 font-medium">
-                  MON-SAT: 07:00 - 17:00 SUN: CLOSED
-                </p>
+                <p className="text-gray-600 font-medium">MON-SUN: 24/7</p>
               </div>
             </div>
           </div>
@@ -51,7 +49,7 @@ const footer = () => {
               <Image src={Logo} alt="Logo" />
 
               <p className="text-gray-500">
-                AVM has provided car services in India. Tagline here
+                Satkar Holidays has provided car services in India. Tagline here
               </p>
             </div>
             <div className="col-span-1 space-y-8">
@@ -84,7 +82,7 @@ const footer = () => {
             </div>
             <div className="col-span-1 space-y-8">
               <div className="flex flex-col space-y-2">
-                <p className="text-gray-600 font-medium">AVM</p>
+                <p className="text-gray-600 font-medium">Satkar Holidays</p>
                 <p className="border-solid border border-amber-500  w-1/4 "></p>
               </div>
               <div className="flex flex-col space-y-4">
@@ -102,11 +100,7 @@ const footer = () => {
                 </div>
                 <div className="flex flex-row items-center space-x-4">
                   <FaVoicemail className="w-6 h-6 text-gray-500 " />
-                  <p className="text-gray-500"> contact@avm.com</p>
-                </div>
-                <div className="flex flex-row items-center space-x-4">
-                  <FaCalendarWeek className="w-6 h-6 text-gray-500 " />
-                  <p className="text-gray-500">Mon-Sat: 07:00 - 17:00</p>
+                  <p className="text-gray-500"> contact@Satkar Holidays.com</p>
                 </div>
               </div>
             </div>

@@ -14,8 +14,8 @@ const Meta = ({ title, keywords, description }) => {
 };
 
 Meta.defaultProps = {
-  title: "AVM Company",
-  keywords: "Avm taxi, India",
+  title: "Satkar Holidays Company",
+  keywords: "Satkar Holidays taxi, India",
   description: "Get the latest news in web dev",
 };
 

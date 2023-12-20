@@ -25,7 +25,7 @@ const navbar = () => {
             </div>
             <div className="flex flex-row space-x-2">
               <FaRegClock className="w-5 h-5 text-gray-500" />
-              <p>Mon-Sat: 07:00 - 17:00</p>
+              <p>Mon-Sun: 24/7</p>
             </div>
           </div>
           <div className="flex flex-row space-x-4  justify-center items-center ">
@@ -106,6 +106,16 @@ const navbar = () => {
                     className="block py-2 pr-4 pl-3 text-gray-500   md:hover:text-yellow-500 md:p-0 "
                   >
                     ABOUT
+                  </a>
+                </Link>
+              </li>
+              <li>
+                <Link href="/booking">
+                  <a
+                    href="/booking"
+                    className="block py-2 pr-4 pl-3 text-gray-500  md:hover:text-yellow-500 md:p-0 "
+                  >
+                    Book Now
                   </a>
                 </Link>
               </li>
