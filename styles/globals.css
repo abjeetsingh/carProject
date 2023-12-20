@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+
 .map-h2 {
   text-transform: uppercase;
   font-size: 1rem;
